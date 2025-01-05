@@ -1,5 +1,5 @@
 # planeo-simple-nodejs
-This is a helm chart that runs a simple nodejs app on port `:3000`
+This is a helm chart that runs a simple nodejs app on port `:8080`
 
 ## requirements
 - a working `kubernetes` cluster
